@@ -1,6 +1,7 @@
 #include "shellinford_bit_vector.h"
 #include <iostream>
 #include <ctime>
+#include <cstdlib>
 
 using namespace std;
 int main(int argc, char **argv) {
